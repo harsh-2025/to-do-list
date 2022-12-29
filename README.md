@@ -1,3 +1,6 @@
+# Link for preview
+https://to-do-list-weld-eta.vercel.app/
+
 # To Do List App React (V1)
 
 To Do List App React JS by WebStylePress (Add, Edit, Update, Delete, Toggle Tasks)
